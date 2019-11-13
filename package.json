@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/GartorwareCorp/cordova-plugin-firebase-locked"
   },
   "name": "cordova-plugin-firebase",
   "version": "2.0.5",
-  "description": "Cordova plugin for Google Firebase",
+  "description": "Cordova plugin for Google Firebase, with locked exact versions for google libs",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "cordova-plugin-firebase-locked",
     "platforms": [
       "android",
       "ios",
