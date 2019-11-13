@@ -3,6 +3,8 @@
 **DO NOT USE THIS!**
 **This repo is just for locking firebase versions to build old projects as they were**
 
+**Use with *cordova-android-play-services-gradle-release*, with `"PLAY_SERVICES_VERSION": "16.+"`**
+
 # cordova-plugin-firebase
 This plugin brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project!  Android and iOS supported.
 
